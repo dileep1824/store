@@ -1,0 +1,7 @@
+com/project/store/repos/FoodItemRepositoryTest.class
+com/project/store/utils/ImageUtilsTest.class
+com/project/store/StoreApplicationTests.class
+com/project/store/exceptions/ResourceNotFoundExceptionTest.class
+com/project/store/controllers/FoodItemControllerTest.class
+com/project/store/models/FoodItemTest.class
+com/project/store/services/FoodItemService.class
